@@ -38,5 +38,5 @@ https://gitpod.io/#https://github.com/algorand-devrel/workshop
 - 28. review the response "Hello, AlgoDev"
 
 ## Video Recordings
-- Episode #1 Hello, AlgoDevs
+- Episode #1 [Hello, AlgoDevs](https://youtu.be/KX7Vo_TeE9M)
 - Episode #2 Building with AlgoKit, PyTeal and Beaker
