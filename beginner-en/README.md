@@ -39,4 +39,4 @@ https://gitpod.io/#https://github.com/algorand-devrel/workshop
 
 ## Video Recordings
 - Episode #1 [Hello, AlgoDevs](https://youtu.be/KX7Vo_TeE9M)
-- Episode #2 Building with AlgoKit, PyTeal and Beaker
+- Episode #2 [Building with AlgoKit, PyTeal and Beaker](https://youtu.be/JScSCi2NAo4)
